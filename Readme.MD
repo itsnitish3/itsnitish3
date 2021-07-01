@@ -16,7 +16,7 @@
 </p> 
  
  
-## I'm a New Developer
+## About Me
 <p> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsNitish69&theme=dracula" /> </p>
 
 ### Connect with me:

@@ -64,7 +64,7 @@
 
 ### Commit History
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsNitish69&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsNitish69&theme=dark&hide_border=true)](http://github-readme-streak-stats.herokuapp.com/?user=itsNitish69&theme=dark&hide_border=true)
 
 
 

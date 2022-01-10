@@ -5,9 +5,11 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/itsNitish69) 
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=itsNitish69.profileviews-badge)](https://github.com/itsNitish69) 
 [![followers](https://img.shields.io/github/followers/itsNitish69?style=social)](https://github.com/itsNitish69?tab=followers) 
+[![wakatime](https://wakatime.com/badge/user/965db8de-14f8-4e61-9787-c4fca1c105b0.svg)](https://wakatime.com/@965db8de-14f8-4e61-9787-c4fca1c105b0)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/itsNitish69/The-Complete-FAANG-Preparation) 
 [![Repos Badge](https://badges.pufler.dev/repos/itsNitish69)](https://github.com/itsNitish69?tab=repositories) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/itsNitish69/) 
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
